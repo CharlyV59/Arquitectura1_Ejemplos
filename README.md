@@ -1,4 +1,4 @@
-# Manual Tecnico
+# Manual Tecnico (Ejemplo)
 
 ## Descripcion codigo
 
@@ -13,7 +13,7 @@
 
 Parte del codigo que se utiliza para la asignacion de los puertas de entrada y salida que se utilizara en la practica.
 
-# Manual de usuario
+# Manual de usuario (Ejemplo)
 
 ![image](https://github.com/CharlyV59/Arquitectura1_Ejemplos/assets/91964691/40761ecf-eed7-4ef8-83f8-1e8d8dcee469)
 
