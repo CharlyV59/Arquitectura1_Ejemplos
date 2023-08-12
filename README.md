@@ -11,7 +11,7 @@
   pinMode(danger,INPUT);
 ```
 
-Parte del codigo que se utiliza para la asignacion de los puertas de entrada y salida que se utilizara en la practica.
+Parte del codigo que se utiliza para la asignacion de los puertos de entrada y salida que se utilizara en la practica.
 
 # Manual de usuario (Ejemplo)
 
